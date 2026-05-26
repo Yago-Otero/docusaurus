@@ -1,0 +1,62 @@
+{
+  "link.title.TICGAL": {
+    "message": "TICGAL",
+    "description": "The title of the footer links column"
+  },
+  "link.title.Solutions": {
+    "message": "Soluciones",
+    "description": "The title of the footer links column"
+  },
+  "link.title.Contact": {
+    "message": "Contacto",
+    "description": "The title of the footer links column"
+  },
+  "link.item.label.About Us": {
+    "message": "Sobre nosotros",
+    "description": "The label of footer link with label=About Us linking to https://tic.gal/about-us/"
+  },
+  "link.item.label.GLPI": {
+    "message": "GLPI",
+    "description": "The label of footer link with label=GLPI linking to https://tic.gal/glpi/"
+  },
+  "link.item.label.IT Services": {
+    "message": "Servicios TIC",
+    "description": "The label of footer link with label=IT Services linking to https://tic.gal/it-services/"
+  },
+  "link.item.label.News": {
+    "message": "Noticias",
+    "description": "The label of footer link with label=News linking to https://tic.gal/blog-en/"
+  },
+  "link.item.label.GLPI Plugins": {
+    "message": "Plugins GLPI",
+    "description": "The label of footer link with label=GLPI Plugins linking to https://tic.gal/glpi/glpi-plugins/"
+  },
+  "link.item.label.GLPI Integrations": {
+    "message": "Integraciones GLPI",
+    "description": "The label of footer link with label=GLPI Integrations linking to https://tic.gal/glpi/glpi-integrations/"
+  },
+  "link.item.label.GLPI Mobility Solutions": {
+    "message": "Soluciones de movilidad GLPI",
+    "description": "The label of footer link with label=GLPI Mobility Solutions linking to https://tic.gal/glpi/glpi-mobility-solutions/"
+  },
+  "link.item.label.GLPI AI Chatbot": {
+    "message": "Chatbot IA GLPI",
+    "description": "The label of footer link with label=GLPI AI Chatbot linking to https://tic.gal/glpi/uxia-an-ai-chatbot-for-glpi/"
+  },
+  "link.item.label.Support": {
+    "message": "Soporte",
+    "description": "The label of footer link with label=Support linking to https://xes.ticgal.com"
+  },
+  "link.item.label.Contact Us": {
+    "message": "Contáctanos",
+    "description": "The label of footer link with label=Contact Us linking to https://tic.gal/contact/"
+  },
+  "link.item.label.Join the team": {
+    "message": "Únete al equipo",
+    "description": "The label of footer link with label=Join the team linking to https://tic.gal/join-the-team/"
+  },
+  "copyright": {
+    "message": "© TICGAL 2014–2026 Todos los derechos reservados.",
+    "description": "The footer copyright"
+  }
+}

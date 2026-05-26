@@ -22,7 +22,15 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      es: {
+        label: 'Español',
+      },
+    },
   },
 
   presets: [
@@ -59,6 +67,10 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
         ],
       },
