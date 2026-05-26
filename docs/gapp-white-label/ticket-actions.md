@@ -61,7 +61,6 @@ When you enter a search criterion, only users whose name contains that criterion
 ![Followup template 1](/img/gapp-white-label/followup-template-1.png)
 ![Followup template 2](/img/gapp-white-label/followup-template-2.png)
 ![Followup template 3](/img/gapp-white-label/followup-template-3.png)
-![Followup template 4](/img/gapp-white-label/followup-template-4.png)
 
 1. Followup templates button.
 2. Followup templates section.
