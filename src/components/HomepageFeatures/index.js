@@ -1,45 +1,46 @@
-import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'GLPI Plugins',
+    image: require('@site/static/img/logos/plugins-300x300.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        You can enhance GLPI built-in features with useful GLPI plugins and
+        browser extension. Should you need another feature, or any other GLPI
+        related need, do not hesitate to contact us.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'GLPI Integrations',
+    image: require('@site/static/img/logos/integrations-300x300.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Integrate your virtual phone system effortlessly with GLPI using the 3CX
+        Integration, enhancing communication and productivity like never before.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'GLPI Mobility Solutions',
+    image: require('@site/static/img/logos/mobilitysolutions-300x300.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Experience the power of TiCGAL Mobile App and revolutionize your GLPI
+        incident management. Empower your team to resolve incidents efficiently
+        and effectively, all from the convenience of their mobile devices.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className="col col--4">
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} alt={title} className={styles.featureImg} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

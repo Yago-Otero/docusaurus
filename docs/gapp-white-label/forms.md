@@ -2,11 +2,19 @@
 
 ## Forms Section
 
+![Forms section](/img/gapp-white-label/forms-section.jpg)
+
 The Forms section displays forms previously created from the GLPI server using the FormCreator plugin. A form will be displayed to all users if it has been set to public, but different types of access can be configured for each form to restrict access by user, group, or profile.
 
 1. Forms section.
 
 ## Forms: Attach Files to Tickets
+
+![Attach files 1](/img/gapp-white-label/forms-attach-1.jpg)
+![Attach files 2](/img/gapp-white-label/forms-attach-2.jpg)
+![Attach files 3](/img/gapp-white-label/forms-attach-3.png)
+![Attach files 4](/img/gapp-white-label/forms-attach-4.jpg)
+![Attach files 5](/img/gapp-white-label/forms-attach-5.jpg)
 
 Each form will have different questions. File-type questions can also attach images from different sources:
 

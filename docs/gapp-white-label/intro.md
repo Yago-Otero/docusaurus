@@ -1,5 +1,8 @@
 # About Gapp
 
+![Gapp White Label logo](/img/gapp-white-label/gapp-logo.png)
+![Gapp Xtended](/img/gapp-white-label/gapp-xtended.png)
+
 **Gapp White Label: The mobility solution for your GLPI**
 
 ## Exploring Gapp

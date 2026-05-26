@@ -2,6 +2,9 @@
 
 ## Home
 
+![Home screen](/img/gapp-white-label/home.jpg)
+![Home screen 2](/img/gapp-white-label/home-2.jpg)
+
 This is the home screen in Gapp. Let's explore the features integrated into this interface:
 
 1. **Menu** with access to more features of the application.
@@ -21,6 +24,8 @@ This is the home screen in Gapp. Let's explore the features integrated into this
 15. **KB** displays previously created knowledge bases on the server, with information and procedures for performing different tasks.
 
 ## Main Menu
+
+![Left menu](/img/gapp-white-label/left-menu.jpg)
 
 This menu allows access to several of the functions discussed in the previous section, but also others:
 

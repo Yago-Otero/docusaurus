@@ -1,40 +1,25 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TICGAL',
-  tagline: 'TICGAL',
+  tagline: 'Local Roots, Global Reach IT',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://docs.tic.gal',
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'TICGAL Documentation', // Usually your repo name.
+  organizationName: 'ticgal',
+  projectName: 'TICGAL Documentation',
 
   onBrokenLinks: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -47,25 +32,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -77,16 +43,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logos/ticgal_logo.jpeg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'TICGAL',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'TICGAL Logo',
+          src: 'img/logos/ticgal_logo.jpeg',
         },
         items: [
           {
@@ -95,58 +60,72 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'TICGAL',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About Us',
+                href: 'https://tic.gal/about-us/',
+              },
+              {
+                label: 'GLPI',
+                href: 'https://tic.gal/glpi/',
+              },
+              {
+                label: 'IT Services',
+                href: 'https://tic.gal/it-services/',
+              },
+              {
+                label: 'News',
+                href: 'https://tic.gal/blog-en/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Solutions',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GLPI Plugins',
+                href: 'https://tic.gal/glpi/glpi-plugins/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GLPI Integrations',
+                href: 'https://tic.gal/glpi/glpi-integrations/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'GLPI Mobility Solutions',
+                href: 'https://tic.gal/glpi/glpi-mobility-solutions/',
+              },
+              {
+                label: 'GLPI AI Chatbot',
+                href: 'https://tic.gal/glpi/uxia-an-ai-chatbot-for-glpi/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Contact',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Support',
+                href: 'https://xes.ticgal.com',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Contact Us',
+                href: 'https://tic.gal/contact/',
+              },
+              {
+                label: 'Join the team',
+                href: 'https://tic.gal/join-the-team/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `© TICGAL 2014–${new Date().getFullYear()} All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,

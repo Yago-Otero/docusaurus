@@ -2,6 +2,8 @@
 
 ## Main Tickets View
 
+![Tickets view](/img/gapp-white-label/ticket-list.jpg)
+
 This is the ticket window in Gapp.
 
 1. On the top left is the **burger menu icon**.
@@ -25,6 +27,8 @@ This is the ticket window in Gapp.
 *Note: All tickets are sorted using the last update from newer to older.*
 
 ## Filters Menu
+
+![Filters menu](/img/gapp-white-label/filters.jpg)
 
 With access to the **Filter Menu**, the following screen is shown.
 

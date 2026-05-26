@@ -1,5 +1,7 @@
 # Ticket Actions
 
+![Ticket actions](/img/gapp-white-label/ticket-actions.jpg)
+
 If you push the button in the bottom-right in the Ticket Process view you will see:
 
 1. Add a **new validation.**
@@ -12,6 +14,8 @@ If you push the button in the bottom-right in the Ticket Process view you will s
 
 ## Add a Task
 
+![New task](/img/gapp-white-label/new-task.png)
+
 1. Ticket **information**.
 2. **Mention another tech.**
 3. **Formatting** options for task description.
@@ -23,6 +27,9 @@ If you push the button in the bottom-right in the Ticket Process view you will s
 *Note: You can only mention another tech if you have the Gapp White Label version.*
 
 ## Mention Users
+
+![Mention users 1](/img/gapp-white-label/mention-users-1.jpg)
+![Mention users 2](/img/gapp-white-label/mention-users-2.jpg)
 
 From the mentions section, you can search for users by name or email. This is not only possible in tasks, but also in follow-ups and solutions.
 
@@ -37,6 +44,8 @@ When you enter a search criterion, only users whose name contains that criterion
 
 ## Add a Followup
 
+![New followup](/img/gapp-white-label/new-followup.png)
+
 1. Ticket **information**.
 2. **Mention another user.**
 3. **Formatting** options for follow-up content.
@@ -48,6 +57,11 @@ When you enter a search criterion, only users whose name contains that criterion
 *Note: You can only mention another user if you have the Gapp White Label version.*
 
 ## Add a Followup Using a Template
+
+![Followup template 1](/img/gapp-white-label/followup-template-1.png)
+![Followup template 2](/img/gapp-white-label/followup-template-2.png)
+![Followup template 3](/img/gapp-white-label/followup-template-3.png)
+![Followup template 4](/img/gapp-white-label/followup-template-4.png)
 
 1. Followup templates button.
 2. Followup templates section.

@@ -2,6 +2,9 @@
 
 ## New Ticket
 
+![New ticket 1](/img/gapp-white-label/new-ticket-1.jpg)
+![New ticket 2](/img/gapp-white-label/new-ticket-4.jpg)
+
 This screen will appear if you click on a new ticket from the home screen, the main menu, or the yellow **(+)** icon in the main ticket view.
 
 1. The **entity** where you are creating the ticket.
@@ -21,6 +24,8 @@ This screen will appear if you click on a new ticket from the home screen, the m
 *Note: In the Gapp White Label version, exclusive features include the ability to assign a technician or group, enhancing task allocation efficiency. Additionally, this release allows users to configure optional fields as mandatory through the GLPI backend for a more tailored and structured ticket creation process.*
 
 ## New Ticket – Change Ticket Entity
+
+![Change entity](/img/gapp-white-label/change-entity.jpg)
 
 By clicking the button mentioned in the previous section, you can change the destination entity for the ticket you want to create. The list will display the entities the user can view based on their permissions.
 
