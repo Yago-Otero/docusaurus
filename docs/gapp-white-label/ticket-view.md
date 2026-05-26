@@ -2,6 +2,8 @@
 
 ## Main Ticket View
 
+![Ticket view](/img/gapp-white-label/ticket-view.jpg)
+
 This section displays a summary of the ticket.
 
 1. The **entity** where the ticket is located.
@@ -23,11 +25,15 @@ This section displays a summary of the ticket.
 
 ## Main Ticket View – Toolbar
 
+![Share button](/img/gapp-white-label/share-button.jpg)
+
 1. Change ticket status button.
 2. Modify ticket category button.
 3. Share ticket button.
 
 ## Service Levels
+
+![Service levels](/img/gapp-white-label/service-levels.jpg)
 
 Here you can see the ticket's Service Levels.
 
@@ -38,7 +44,11 @@ Here you can see the ticket's Service Levels.
 
 ## Actors
 
+![Actors](/img/gapp-white-label/actors.jpg)
+
 Here you can see and modify the ticket's actors.
+
+![Actors search](/img/gapp-white-label/actors-search.jpg)
 
 1. Requesters section.
 2. Assign yourself as requester.
@@ -52,11 +62,15 @@ Here you can see and modify the ticket's actors.
 
 ## Linked Tickets
 
+![Linked tickets](/img/gapp-white-label/linked-tickets.jpg)
+
 Here you can see and access the ticket's linked tickets.
 
 1. List of the linked tickets.
 
 ## Ticket View Selector
+
+![View selector](/img/gapp-white-label/view-selector.jpg)
 
 1. **Request / Incident** – Main view.
 2. **Processing** – Conversation view.
@@ -66,6 +80,8 @@ Here you can see and access the ticket's linked tickets.
 6. **Contracts**.
 
 ## Processing
+
+![Processing](/img/gapp-white-label/processing.jpg)
 
 You can find the following elements on a ticket.
 
@@ -88,6 +104,9 @@ You can find the following elements on a ticket.
 
 ## Items
 
+![Items](/img/gapp-white-label/items.png)
+![Items with actualtime](/img/gapp-white-label/items-actualtime.jpg)
+
 You can find all the items linked to a ticket.
 
 1. Ticket information.
@@ -104,13 +123,21 @@ Additional options (some require corresponding plugins):
 
 ## Item Raw Info
 
+![Item raw info](/img/gapp-white-label/item-raw-info.jpg)
+
 From the list of items in the ticket view, the raw information of the item can be accessed.
 
 ## Knowledge Base
 
+![KB 1](/img/gapp-white-label/kb-1.jpg)
+![KB 2](/img/gapp-white-label/kb-2.jpg)
+![KB 3](/img/gapp-white-label/kb-3.png)
+
 If a ticket has a knowledge base associated with it, it will be accessible from the Ticket Processing section.
 
 ## Historical
+
+![Historical](/img/gapp-white-label/historical.jpg)
 
 This is a function only available in **Gapp White Label**.
 
@@ -121,9 +148,13 @@ This is a function only available in **Gapp White Label**.
 
 ## Timeline
 
+![Timeline](/img/gapp-white-label/timeline.png)
+
 Depending on the settings set by the user on the GLPI server, a ticket's follow-ups and tasks can be displayed in two directions: normal or inverted.
 
 ## Copy Ticket URL to Clipboard
+
+![Copy URL](/img/gapp-white-label/copy-url.jpg)
 
 Clicking on the ticket ID will copy its URL to the clipboard.
 

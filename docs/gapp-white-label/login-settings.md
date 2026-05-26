@@ -2,6 +2,8 @@
 
 ## Login
 
+![Login screen](/img/gapp-white-label/login.jpg)
+
 The login for your app is customized according to the preferences of the app owner. Various authentication methods can be made available, depending on their requirements.
 
 1. **User**. This field prompts users to enter their account's unique username or email address.
@@ -15,6 +17,8 @@ The login for your app is customized according to the preferences of the app own
 
 ## Settings (Not logged)
 
+![Settings not logged](/img/gapp-white-label/settings-not-logged.png)
+
 In the Settings section of our application, a set of fundamental options is displayed to personalize the user experience.
 
 1. **Language.** Here you can change the language in which the application is shown.
@@ -22,6 +26,8 @@ In the Settings section of our application, a set of fundamental options is disp
 3. **Gapp Version.** You can see more information by clicking on it.
 
 ## Settings (Logged)
+
+![Settings logged](/img/gapp-white-label/settings-logged.jpg)
 
 If the user is authenticated, more options will be displayed in the **Settings** section.
 
@@ -36,12 +42,16 @@ If the user is authenticated, more options will be displayed in the **Settings**
 
 ## Settings (Interval to delete notification logs)
 
+![Clean logs popup](/img/gapp-white-label/settings-clean-logs.jpg)
+
 This pop-up shows several intervals. If none suits the user's needs, a custom one can be added:
 
 1. Set interval to clean logs pop-up.
 2. Interval options list.
 
 ## Settings (Custom interval to delete notification logs)
+
+![Custom interval popup](/img/gapp-white-label/settings-clean-logs-custom.jpg)
 
 1. Set custom interval to clean logs pop-up.
 2. Input for interval (in days).
